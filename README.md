@@ -28,3 +28,5 @@ Projects I'm Working On:
 [![Walk with fastai](https://github-readme-stats.vercel.app/api/pin/?username=walkwithfastai&repo=walkwithfastai.github.io)](https://walkwithfastai.com/)
 [![Practical Deep Learning for Coders](https://github-readme-stats.vercel.app/api/pin/?username=muellerzr&repo=Practical-Deep-Learning-for-Coders-2.0)](https://github.com/muellerzr/Practical-Deep-Learning-for-Coders-2.0)
 [![:hugs: Accelerate](https://github-readme-stats.vercel.app/api/pin/?username=huggingface&repo=accelerate)](https://github.com/huggingface/accelerate)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muellerzr)](https://github.com/muellerzr/muellerzr)

@@ -21,3 +21,6 @@
       <img src="https://github-readme-stats.vercel.app/api?username=muellerzr&count_private=true&show_icons=true&hide=issues&theme=radical" alt="github readme stats" height="156"/>
     </a>
   </p>
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)

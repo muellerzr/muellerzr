@@ -23,6 +23,7 @@
   </p>
 
 Projects I'm Working On:
+
 [![nbdev-extensions](https://github-readme-stats.vercel.app/api/pin/?username=muellerzr&repo=nbdev-extensions)](https://github.com/muellerzr/nbdev-extensions)
 [![Walk with fastai](https://github-readme-stats.vercel.app/api/pin/?username=walkwithfastai&repo=walkwithfastai.github.io)](https://walkwithfastai.com/)
 [![Practical Deep Learning for Coders](https://github-readme-stats.vercel.app/api/pin/?username=muellerzr&repo=Practical-Deep-Learning-for-Coders-2.0)](https://github.com/muellerzr/Practical-Deep-Learning-for-Coders-2.0)

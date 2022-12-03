@@ -18,6 +18,6 @@
 
   <p align="left">
     <a href="https://github.com/muellerzr?tab=repositories">
-      <img src="https://github-readme-stats.vercel.app/api?username=muellerzr&count_private=true&show_icons=true&hide=issues&theme=react" alt="github readme stats" height="156"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=muellerzr&count_private=true&show_icons=true&hide=issues&theme=radical" alt="github readme stats" height="156"/>
     </a>
   </p>

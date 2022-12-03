@@ -24,9 +24,9 @@
 
 Projects I'm Working On:
 
-[![nbdev-extensions](https://github-readme-stats.vercel.app/api/pin/?username=muellerzr&repo=nbdev-extensions)](https://github.com/muellerzr/nbdev-extensions)
-[![Walk with fastai](https://github-readme-stats.vercel.app/api/pin/?username=walkwithfastai&repo=walkwithfastai.github.io)](https://walkwithfastai.com/)
-[![Practical Deep Learning for Coders](https://github-readme-stats.vercel.app/api/pin/?username=muellerzr&repo=Practical-Deep-Learning-for-Coders-2.0)](https://github.com/muellerzr/Practical-Deep-Learning-for-Coders-2.0)
-[![:hugs: Accelerate](https://github-readme-stats.vercel.app/api/pin/?username=huggingface&repo=accelerate)](https://github.com/huggingface/accelerate)
+[![nbdev-extensions](https://github-readme-stats.vercel.app/api/pin/?username=muellerzr&repo=nbdev-extensions&theme=radical)](https://github.com/muellerzr/nbdev-extensions)
+[![Walk with fastai](https://github-readme-stats.vercel.app/api/pin/?username=walkwithfastai&repo=walkwithfastai.github.io&theme=radical)](https://walkwithfastai.com/)
+[![Practical Deep Learning for Coders](https://github-readme-stats.vercel.app/api/pin/?username=muellerzr&repo=Practical-Deep-Learning-for-Coders-2.0&theme=radical)](https://github.com/muellerzr/Practical-Deep-Learning-for-Coders-2.0)
+[![:hugs: Accelerate](https://github-readme-stats.vercel.app/api/pin/?username=huggingface&repo=accelerate&theme=radical)](https://github.com/huggingface/accelerate)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muellerzr&layout=compact)](https://github.com/muellerzr/muellerzr)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muellerzr&layout=compact&theme=radical)](https://github.com/muellerzr/muellerzr)

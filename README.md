@@ -24,7 +24,7 @@
 
 ## Some Projects I Work On:
 
-[![nbdev-extensions](https://github-readme-stats.vercel.app/api/pin/?username=muellerzr&repo=nbdev-extensions&theme=dark)](https://github.com/muellerzr/nbdev-extensions)
+[![nbquarto](https://github-readme-stats.vercel.app/api/pin/?username=muellerzr&repo=nbquarto&theme=dark)](https://github.com/muellerzr/nbquarto)
 [![Walk with fastai](https://github-readme-stats.vercel.app/api/pin/?username=walkwithfastai&repo=walkwithfastai.github.io&theme=dark)](https://walkwithfastai.com/)
 [![Practical Deep Learning for Coders](https://github-readme-stats.vercel.app/api/pin/?username=muellerzr&repo=Practical-Deep-Learning-for-Coders-2.0&theme=dark)](https://github.com/muellerzr/Practical-Deep-Learning-for-Coders-2.0)
 [![:hugs: Accelerate](https://github-readme-stats.vercel.app/api/pin/?username=huggingface&repo=accelerate&theme=dark)](https://github.com/huggingface/accelerate)
